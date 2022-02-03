@@ -1,2 +1,3 @@
 testando
 segundo texto para segundo commit
+terceiro texto
