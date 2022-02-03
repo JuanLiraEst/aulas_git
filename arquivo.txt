@@ -1,3 +1,4 @@
 testando
 segundo texto para segundo commit
 terceiro texto
+quarto texto, tentando fazer uma branch agora
